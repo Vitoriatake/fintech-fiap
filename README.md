@@ -1,2 +1,2 @@
-# fintech-fiap
+# fintech-fiap-front-end
 Projeto Fintech, Desenvolvi uma pagina de formulário de cadastro em modo responsivo.
